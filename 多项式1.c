@@ -1,5 +1,5 @@
 #include<stdio.h>
 main(){
 	int x=3;
-	printf("当x=3时\n结果为：%d\n",x*x*x-6*x*x+15*x-14);
+	printf("褰搙=3鏃禱n,缁撴灉涓猴細 %d\n",x*x*x-6*x*x+15*x-14);
 } 
